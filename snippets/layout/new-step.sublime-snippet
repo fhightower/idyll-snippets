@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[Step]
+  ${1}
+[/Step]
+]]></content>
+    <tabTrigger>newstep</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Add a new step to a stepper or scroller</description>
+</snippet>

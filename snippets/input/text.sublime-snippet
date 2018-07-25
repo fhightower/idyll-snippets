@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+[var name:"${1:textVar}" value:"${2:Hello World}" /]
+[TextInput value:${1:textVar} /]
+]]></content>
+    <tabTrigger>text</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Get user input through a text input</description>
+</snippet>

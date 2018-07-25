@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[Table data:`${1:[\{columnName1: "a", columnName2: "b"\}, \{columnName1: "aa", columnName2: "bb"\}]}` /]
+]]></content>
+    <tabTrigger>table</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display a table</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+[Header
+  title:"${1:The Title of my Article}"
+  subtitle:"${2:The subtitle of my article}"
+  author:"${3:Matthew Conlen}"
+  authorLink:"${4:https://github.com/mathisonian/}"
+  /]
+]]></content>
+    <tabTrigger>header</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display a header</description>
+</snippet>

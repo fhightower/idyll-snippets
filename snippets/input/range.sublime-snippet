@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[var name:"${1:rangeVar}" value:10 /]
+[Range value:${1:rangeVar} min:0 max:100 /]
+[Display value:${1:rangeVar} /]
+]]></content>
+    <tabTrigger>range</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Get user input through a slider</description>
+</snippet>

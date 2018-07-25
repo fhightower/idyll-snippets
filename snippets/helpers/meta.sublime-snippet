@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[Meta title:"${1:Idyll is Great!}" /]
+]]></content>
+    <tabTrigger>meta</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Add metadata about the page</description>
+</snippet>

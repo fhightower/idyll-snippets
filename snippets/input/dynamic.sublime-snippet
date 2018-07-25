@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+[var name:"${1:dynamicVar}" value:${2:10} /]
+[Dynamic value:${1:dynamicVar} /]
+]]></content>
+    <tabTrigger>dynamic</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Get dynamic, numerical user input</description>
+</snippet>

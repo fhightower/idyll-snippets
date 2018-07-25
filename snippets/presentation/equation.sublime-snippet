@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[Equation]
+  ${1:y = \int x^2 dx}
+[/Equation]
+]]></content>
+    <tabTrigger>equation</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display an equation</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[Display value:${1:myVar} /]
+]]></content>
+    <tabTrigger>display</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display a variable or other data</description>
+</snippet>

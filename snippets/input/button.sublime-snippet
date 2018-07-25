@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[button onClick:`${1}`]${2:Click Me!}[/button]
+]]></content>
+    <tabTrigger>button</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Do something when the user clicks a button</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[gist gist:"${1:0f83a12e29b268ffca39f471ecf39e91}" file:"${2:particles.idl}" /]
+]]></content>
+    <tabTrigger>gist</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display a gist from Github</description>
+</snippet>

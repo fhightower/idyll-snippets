@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[Inline]${1}[/Inline]
+]]></content>
+    <tabTrigger>inline</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display contained content inline</description>
+</snippet>

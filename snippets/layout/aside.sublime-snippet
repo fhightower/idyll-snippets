@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[Aside]
+  ${1}
+[/Aside]
+]]></content>
+    <tabTrigger>aside</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display content in the margin</description>
+</snippet>

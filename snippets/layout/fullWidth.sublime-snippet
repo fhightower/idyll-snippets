@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[FullWidth]
+  ${1}
+[/FullWidth]
+]]></content>
+    <tabTrigger>fullwidth</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display content across the entire browser window</description>
+</snippet>

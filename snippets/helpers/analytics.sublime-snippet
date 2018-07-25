@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[Analytics google:"${1:UA-XXXXXXXXX}" /]
+]]></content>
+    <tabTrigger>analytics</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Add Google Analytics to a page</description>
+</snippet>

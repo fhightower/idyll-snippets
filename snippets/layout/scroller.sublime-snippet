@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+[var name:"stepperIndex" value:${1:0} /]
+
+[Scroller currentStep:stepperIndex]
+  [Step]## Hey, neat, here's some data![/Step]
+  [Step]## ...   [/Step]
+  [Step]## ...  What's that more data?![/Step]
+  [Step]## Hmm...[/Step]
+  [Step]## Too much data.[/Step]
+  [Step]## Stop.[/Step]
+  [Step]## that.[/Step]
+  [Step]## data[/Step]
+[/Scroller]
+]]></content>
+    <tabTrigger>scroller</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Create scroll-based presentations</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[SVG src:"${1:path/to/file.svg}" /]
+]]></content>
+    <tabTrigger>svg</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display a SVG</description>
+</snippet>

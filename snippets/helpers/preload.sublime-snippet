@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[Preload images:${1:`["image-url-1.png", "image-url-2.jpg"]`}/]
+]]></content>
+    <tabTrigger>preload</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Preload images to avoid a flash</description>
+</snippet>

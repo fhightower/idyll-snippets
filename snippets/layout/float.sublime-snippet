@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[Float position:"${1:right}"]
+  ${2}
+[/Float]
+]]></content>
+    <tabTrigger>float</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Float content to left or right of parent container</description>
+</snippet>

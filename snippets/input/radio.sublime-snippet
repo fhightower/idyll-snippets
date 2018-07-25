@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+[var name:"${1:radioVal}" value:"${2:test1}" /]
+[Radio value:${1:radioVal} options:`${3:["test1", "test2"]}` /]
+]]></content>
+    <tabTrigger>radio</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Get user input through radio buttons</description>
+</snippet>

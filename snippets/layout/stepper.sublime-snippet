@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+[var name:"stepperIndex" value:${1:0} /]
+
+[Stepper currentStep:stepperIndex]
+  [Graphic]
+     [img src:`"${2}"` /]
+  [/Graphic]
+
+  [Step]
+    ${3}
+  [/Step]
+
+  ${4}
+
+  [StepperControl /]
+[/Stepper]
+]]></content>
+    <tabTrigger>stepper</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display content in steps</description>
+</snippet>

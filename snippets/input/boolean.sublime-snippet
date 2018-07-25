@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[var name:"${1:boolVar}" value:${2:false} /]
+[Boolean value:${1:boolVar} /]
+Checkbox [Display value:`${1:boolVar} ? "is checked." : "isn't checked." `/]
+]]></content>
+    <tabTrigger>boolean</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Get boolean input</description>
+</snippet>

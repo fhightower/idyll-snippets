@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+[var name:"${1:selectVar}" value:"${2:test1}" /]
+[Select value:${1:selectVar} options:`${3:["test1", "test2"]}` /]
+]]></content>
+    <tabTrigger>select</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Get user input through a menu</description>
+</snippet>

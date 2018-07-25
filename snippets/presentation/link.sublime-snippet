@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[link text:"${1:the text}" url:"${2:https://example.com}" /]
+]]></content>
+    <tabTrigger>link</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Display a link</description>
+</snippet>

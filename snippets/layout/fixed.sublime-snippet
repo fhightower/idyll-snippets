@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[Fixed]
+  ${1}
+[/Fixed]
+]]></content>
+    <tabTrigger>fixed</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Lock content in place</description>
+</snippet>

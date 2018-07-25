@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[action onClick:`${1}`]${2}[/action]
+]]></content>
+    <tabTrigger>action</tabTrigger>
+    <scope>text.plain</scope>
+    <description>Perform an action on a user action</description>
+</snippet>
