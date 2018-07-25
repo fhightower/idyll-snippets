@@ -2,6 +2,10 @@
 
 Sublime Text snippets for using the Idyll markup language.
 
+## Documentation
+
+There are snippets for all of the built-in components listed here: [https://idyll-lang.org/docs/components](https://idyll-lang.org/docs/components).
+
 ## Installation
 
 If you're using [Package Control](https://packagecontrol.io/) for Sublime Text, simply install the `Idyll Lang` package.
@@ -30,10 +34,6 @@ git clone --depth 1 https://github.com/fhightower/idyll-snippets.git
 ```
 
 *Note:* If you are having trouble finding the correct location to install the snippets, refer to the [documentation](http://docs.sublimetext.info/en/latest/basic_concepts.html#the-data-directory) on the subject.
-
-## Usage
-
-TODO: add some usage instructions
 
 ## Credits
 
