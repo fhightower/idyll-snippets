@@ -1,4 +1,4 @@
-# Idyll Lang Sublime Text Snippets *(v0.1.0)*
+# Idyll Lang Sublime Text Snippets *(v0.1.1)*
 
 Sublime Text snippets for using the Idyll markup language.
 
